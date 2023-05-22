@@ -1,0 +1,23 @@
+/*Configuração gerais da página (BODY)*/
+
+body{
+    color: #FFFFFF;
+    background-color: #D91E2E;}
+    
+    
+    /*CORES A SEMRE UTILIZADAS NO ESTILO DA PÁGINA - NÃO APAGAR */
+    .Flamengo-1-hex { color: #D91E2E; }
+    .Flamengo-2-hex { color: #040D09; }
+    .Flamengo-3-hex { color: #F2E088; }
+    .Flamengo-4-hex { color: #8C0303; }
+    .Flamengo-5-hex { color: #D91818; }
+    .Flamengo-1-rgba { color: rgba(216, 29, 45, 1); }
+    .Flamengo-2-rgba { color: rgba(3, 12, 8, 1); }
+    .Flamengo-3-rgba { color: rgba(242, 223, 135, 1); }
+    .Flamengo-4-rgba { color: rgba(140, 3, 3, 1); }
+    .Flamengo-5-rgba { color: rgba(216, 24, 24, 1); }
+    .Flamengo-1-hsla { color: hsla(354, 75, 48, 1); }
+    .Flamengo-2-hsla { color: hsla(153, 52, 3, 1); }
+    .Flamengo-3-hsla { color: hsla(49, 80, 74, 1); }
+    .Flamengo-4-hsla { color: hsla(0, 95, 28, 1); }
+    .Flamengo-5-hsla { color: hsla(0, 80, 47, 1); }
